@@ -1,0 +1,13 @@
+@startuml
+actor "Отдел кадров" as p
+database "График" as q
+database "Трудовой план" as e
+participant "Правило" as m
+database "Расписание" as t
+p -> q : Запрос
+q -> p 
+p -> e : Составление
+p -> m : Проверка на соответствие
+m -> p : Результат проверки
+p -> t : Назначение
+@enduml
