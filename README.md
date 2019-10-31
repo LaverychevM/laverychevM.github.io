@@ -53,6 +53,27 @@
 
 ## Лабораторная 3
 
+### Описание хранилищ данных
+
+* DFD-диаграмма "Составление расписания" (блок A1-03)
+
+![none](https://github.com/LaverychevM/laverychevM.github.io/blob/master/laba3/DFD_3.1.png)
+
+* [Диаграмма формате .rsf](https://github.com/LaverychevM/laverychevM.github.io/blob/master/laba3/IDEF0_laba3.rsf)
+
+### Описание взаимодействия участников автоматизируемой деятельности
+
+* [Текст](https://github.com/LaverychevM/laverychevM.github.io/blob/master/laba3/3-2) и [рисунок](http://www.plantuml.com/plantuml/png/JP0zhi9038JxFOL5_ov0WRZAFaY1H613bXu24WqT1HK_xvqWGaG48i8Lx1intfKGHHB9C_x6atxkxSpFqx6n0p-TKOUFKl2LAsw87rpoLHRSygL3DYTdXjRRNvidyEqWbBBccXz1pBx5Vrd82XXiuhaJlxW1x1cSYN7870r6pauyp2SbmLZ3qmP7-iqw8sO9G8qt4B1LmUIDevyUPTGbtaDvwQMoD9bE7KKrKVLFvwYb8Gsg1KRKKzLFiIDN-A8pmL0Iqbhi5M5UXFrBs4iZ7tjdi6xesSXMwL9GFEA3gcE8L_C1yJSbo-PpGZ-P3F7ltm00)
+диаграммы последовательности<br>
+![none](http://www.plantuml.com/plantuml/png/JP0zhi9038JxFOL5_ov0WRZAFaY1H613bXu24WqT1HK_xvqWGaG48i8Lx1intfKGHHB9C_x6atxkxSpFqx6n0p-TKOUFKl2LAsw87rpoLHRSygL3DYTdXjRRNvidyEqWbBBccXz1pBx5Vrd82XXiuhaJlxW1x1cSYN7870r6pauyp2SbmLZ3qmP7-iqw8sO9G8qt4B1LmUIDevyUPTGbtaDvwQMoD9bE7KKrKVLFvwYb8Gsg1KRKKzLFiIDN-A8pmL0Iqbhi5M5UXFrBs4iZ7tjdi6xesSXMwL9GFEA3gcE8L_C1yJSbo-PpGZ-P3F7ltm00)
+
+### Описание участников автоматизируемой деятельности
+
+* [Текст](https://github.com/LaverychevM/laverychevM.github.io/blob/master/laba3/3-3) и [рисунок](http://www.plantuml.com/plantuml/png/VL7B3i505DtFLqmi9Vx1hmWM4YoKbKYeXKsN4Y9H8JwW4MLeZ5yuzu-SeM8yOj4clUTnpxaj1zrAfzjhDLMrMGa2ZLX2cI2LKFULreqQNvWYnKKYXJKiuQ6CiSS51cU56H9-9DGaZXhZ2YCZ3XsUge5-6dzfN_vRp14_5bbaE12tCY8xKeDSNi0crrhi-9mq5sLkJS4B-X5c9KDIzxcfaP0zCeayUv8MTzZSItFet3KBV8HrQxqmpZaXrL1g_GHBZey4dlr_dKHvHowMIlhNMTyPVzf_Kz-pgNAzNUF_lG40)
+диаграммы классов<br>
+![none](http://www.plantuml.com/plantuml/png/VL7B3i505DtFLqmi9Vx1hmWM4YoKbKYeXKsN4Y9H8JwW4MLeZ5yuzu-SeM8yOj4clUTnpxaj1zrAfzjhDLMrMGa2ZLX2cI2LKFULreqQNvWYnKKYXJKiuQ6CiSS51cU56H9-9DGaZXhZ2YCZ3XsUge5-6dzfN_vRp14_5bbaE12tCY8xKeDSNi0crrhi-9mq5sLkJS4B-X5c9KDIzxcfaP0zCeayUv8MTzZSItFet3KBV8HrQxqmpZaXrL1g_GHBZey4dlr_dKHvHowMIlhNMTyPVzf_Kz-pgNAzNUF_lG40)
+***
+
 ## Лабораторная 4
 
 ## Лабораторная 5
