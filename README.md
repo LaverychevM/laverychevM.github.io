@@ -117,11 +117,54 @@
 
 ## Лабораторная 5
 
+1. Определение основных средств автоматизации:
+* Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование) - Рабочие станции (ПК), сервер, комплекс СКУД.
+* Определение конфигурации программных средств (одноуровневые, многоуровневые, встроенные, распределенные) - Многоуровневая.
+* Определение допустимых видов хранилищ и их размещения - ПО на рабочей станции, хранилище на сервере.
 
+2. Разработка диаграмм в RAMUS
+
+Декомпозиция всех автоматизируемых блоков в DFD.
+
+Ветка А1:
+
+![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A1.png)
+
+Ветка А2:
+
+![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A2.png)
+
+Ветка А3:
+
+![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A3.png)
+
+Ветка А4:
+
+![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A4.png)
+
+Ветка А5:
+
+![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A5.png)
+
+3. Определение типа каждого блока в DFD - экранная форма, модуль обработки. 
+Определение типа каждого хранилища в DFD - таблица БД.
 
 ## Лабораторная 6
 
-## Лабораторная 7
+* [Текст](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-flow.txt) и [рисунок](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-flow.png)
+диаграммы потоков
+
+![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-flow.png)
+
+* [Текст](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-role.txt) и [рисунок](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-role.png)
+диаграммы ролей
+
+![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-role.png)
+
+* [Текст](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-modules.txt) и [рисунок](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-modules.png)
+диаграммы модулей.
+
+![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-modules.png)
 
 # Отчет по семинарам
 
