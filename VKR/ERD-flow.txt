@@ -1,0 +1,43 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Потоки"
+
+class Input as "Входящие"
+class Output as "Выходящие"
+class Control as "Управляющие"
+
+class INTransaction as "Транзакции СКУД"
+class INMembers as "Сотрудник"
+
+class OUTReport as "Отчет"
+class OUTGoodMembers as "Сведения о хороших сотрудниках"
+
+class CONTROLShedule as "График"
+class CONTROLRule as "Правила компании"
+class CONTROLSysRule as "Правила СКУД"
+class CONTROLPeriod as "Отчетный период"
+
+
+Entity <|-- Input 
+Entity <|-- Output 
+Entity <|-- Control 
+
+Input <|-- INTransaction 
+Input <|-- INMembers 
+Output <|-- OUTReport
+Output <|-- OUTGoodMembers
+Control <|-- CONTROLShedule 
+Control <|-- CONTROLRule 
+Control <|-- CONTROLSysRule
+Control <|-- CONTROLPeriod  
+
+
+
+hide members
+hide circle
+hide methods
+@enduml
