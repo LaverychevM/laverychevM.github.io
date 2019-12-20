@@ -1,0 +1,24 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Role as "Роль"
+
+
+class Human as "Подчиненный компании"
+class HR as "Сотрудник отдела кадров"
+class Director as "Директор"
+
+Role<|-- Human 
+
+Human <|-- HR
+Human <|-- Director
+
+
+
+hide members
+hide circle
+hide methods
+@enduml

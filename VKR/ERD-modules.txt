@@ -1,0 +1,33 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Modules as "Модуль"
+
+
+class In as "Внутренний"
+class Out as "Внешний"
+
+class Analayze as "Анализ информации"
+class Report as "Формировать отчет"
+
+class HR as "Кадровый учет"
+class Key as "База пропусков"
+class SQUD as "Фиксировать проход"
+
+Modules<|-- In
+Modules<|-- Out
+
+In<|-- Analayze 
+In<|-- Report 
+
+Out<|-- HR 
+Out<|--Key 
+Out<|--SQUD 
+
+hide members
+hide circle
+hide methods
+@enduml
