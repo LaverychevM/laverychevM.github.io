@@ -105,64 +105,67 @@
 
 **IDEF**
 
-Создание контекстной диаграммы и диаграммы уровня A0 c 5 блоками.
+**A-0**
 
 ![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A-0.png)
 
-Декомпозиция автоматизируемых блоков до уровня, прямо сопоставляемого с программными модулями
-
-Ветка А0:
+**A0**
 
 ![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A0.png)
 
-## Лабораторная 5
-
-1. Определение основных средств автоматизации:
-* Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование) - Рабочие станции (ПК), сервер, комплекс СКУД.
-* Определение конфигурации программных средств (одноуровневые, многоуровневые, встроенные, распределенные) - Многоуровневая.
-* Определение допустимых видов хранилищ и их размещения - ПО на рабочей станции, хранилище на сервере.
-
-2. Разработка диаграмм в RAMUS
-
-Декомпозиция всех автоматизируемых блоков в DFD.
-
-Ветка А1:
+**A1**
 
 ![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A1.png)
 
-Ветка А2:
+**A2**
 
 ![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A2.png)
 
-Ветка А3:
-
-![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A3.png)
-
-Ветка А4:
+**A4**
 
 ![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A4.png)
 
-Ветка А5:
+**Лабораторная**
+
+**Определение конфигурации технических средств:** ПК с операционной системой Microsoft Windows 10, сервер Microsoft SQL Server.
+
+**Определение конфигурации программных средств:** двухуровневая.
+
+**Определение допустимых видов хранилищ и их размещения:** БД под управлением MS SQL Server Express, файл формата .xls.
+
+### DFD
+
+**A13**
+
+![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A13.png)
+
+**A22**
+
+![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A22.png)
+
+**A3**
+
+![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A3.png)
+
+**A43**
+
+![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A43.png)
+
+**A5**
 
 ![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/A5.png)
 
-3. Определение типа каждого блока в DFD - экранная форма, модуль обработки. 
-Определение типа каждого хранилища в DFD - таблица БД.
-
 ## Лабораторная 6
 
-* [Текст](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-flow.txt) и [рисунок](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-flow.png)
-диаграммы потоков
+* [ER-диаграмма потоков](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-flow.txt)
 
 ![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-flow.png)
 
-* [Текст](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-role.txt) и [рисунок](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-role.png)
-диаграммы ролей
+* [ER-диаграмма ролей](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-role.txt)
 
 ![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-role.png)
 
-* [Текст](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-modules.txt) и [рисунок](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-modules.png)
-диаграммы модулей.
+* [ER-диаграмма модулей](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-modules.txt)
 
 ![blah](https://github.com/LaverychevM/laverychevM.github.io/blob/master/VKR/ERD-modules.png)
 
